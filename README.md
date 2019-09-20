@@ -1,2 +1,0 @@
-# cyoa
-Created with CodeSandbox
